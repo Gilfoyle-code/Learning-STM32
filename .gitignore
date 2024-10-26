@@ -1,6 +1,8 @@
 OBJ/
 Objects/
-*.28057
-*.bat
+DebugConfig/
 *.ini
-/DebugConfig/
+*.bat
+*.28057
+*.uvoptx
+*.uvprojx
